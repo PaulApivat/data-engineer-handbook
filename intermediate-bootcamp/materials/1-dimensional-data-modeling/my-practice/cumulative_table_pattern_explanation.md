@@ -1,4 +1,5 @@
-# Cumulative Table Pattern: From Sports to Blockchain
+
+# Edit: Cumulative Table Pattern: From Sports to Blockchain
 
 ## Understanding the Pattern
 
